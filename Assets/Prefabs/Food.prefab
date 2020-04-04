@@ -123,4 +123,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 915b1138308922846a7bf68f7a016957, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  goodChance: 0.6
+  goodChance: 0.75
